@@ -1,8 +1,33 @@
-body {
+body
+{
     background-color: #a3d5d3;
 }
 
-a{
+a
+{
     text-decoration: none;
     visited: red;
+}
+
+#header
+{
+    color: yellow;
+}
+
+.content > p
+{
+    color: green;
+}
+
+p
+{
+    font-size: 16px;
+    font: "Times New Roman";
+}
+
+img
+{
+    border: 5px dotted;
+    color: red;
+
 }
