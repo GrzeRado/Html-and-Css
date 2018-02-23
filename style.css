@@ -29,5 +29,9 @@ img
 {
     border: 5px dotted;
     color: red;
+}
 
+.link
+{
+    font-size: 25px;
 }
