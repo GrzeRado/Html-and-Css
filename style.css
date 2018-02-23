@@ -36,7 +36,17 @@ img
     font-size: 25px;
 }
 
-li
+.movie
 {
     color: red;
+}
+
+li > a
+{
+    color: dodgerblue;
+}
+
+ul
+{
+    color: none;
 }
