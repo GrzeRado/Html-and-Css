@@ -73,3 +73,10 @@ ul
     padding-top: 5%;
 }
 
+.dwadivy > p
+{
+    width: 100px;
+    background-color: yellow;
+    display: inline-flex;
+}
+
