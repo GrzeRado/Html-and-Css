@@ -68,5 +68,8 @@ ul
 
 .textowy
 {
-
+    border: groove blue 5px;
+    color: black;
+    padding-top: 5%;
 }
+
