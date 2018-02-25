@@ -25,7 +25,7 @@ p
     font: "Times New Roman";
 }
 
-img
+.photo > img
 {
     border: 5px dotted;
     color: red;
